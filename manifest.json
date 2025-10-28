@@ -1,21 +1,22 @@
 {
-  "name": "Simpeltoko Discount",
-  "short_name": "Simpeltoko",
+  "name": "Toko PSS",
+  "short_name": "PSS",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#06084a",
-  "description": "Toko online Simpeltoko Discount - Belanja mudah, cepat, dan hemat di Blogger!",
+  "description": "Grosir Sparepart Surabaya - Belanja mudah, cepat, dan hemat di Blogger!",
   "icons": [
     {
-      "src": "https://blogger.googleusercontent.com/img/.../LOGO-SIMPELTOKO-Square-300x300.jpg",
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjftM1fC3D9NPm0Z-QewQXgq3dsMPJfTXI95CKXfvurZnwkHF2IVSThFfVFjByKIwjNzUTdHUbvmHk2lAXqTXuyWkAOYfInOURVNtVphdktAz036l59-o-jmqMJQyiT5H0__iIoP5L4e0hpLGX6hXuKnpQ_y1NZed-Qmi6DHI_JBs4sU8DxCnh5OWCr3nU=s200",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/.../LOGO-SIMPELTOKO-Square-300x300.jpg",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZtVhgWU13tcGw_6TEZz84sKawnOBSlTG2-67RIvOccEWpgmnRD9xbBFjICmdwwFtQAzC8ZHDmVa3rJFJa0g7tqOAdIG0r_7_RO8mluwC3R1hpeZgOHQTqAclqilJIZAeWGy7l_SuLxMnW88Qnv1TB7ziV849hp7vZLTITZVCLWMTDG5GUPv4NKDHOaUM/s500/WhatsApp%20Image%202025-10-27%20at%2018.05.06%20(1).jpeg",
       "sizes": "512x512",
       "type": "image/png"
     }
   ]
 }
+
